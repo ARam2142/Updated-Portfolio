@@ -1,0 +1,100 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+ }
+ /*background picture and body*/
+ html, body {
+     height: 100%;
+     width: 100%;
+ }
+ 
+ .background {
+     background-image: 
+     linear-gradient(
+     rgba(113, 147, 209, 0.699),
+     rgba(49, 21, 61, 0.39)
+         
+     ),
+     url('img/beach.jpg');
+ }
+ 
+ body {
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+ }
+ /*end of background picture and body*/
+ /*
+ */
+ /*header section*/
+ 
+ header {
+     padding: 10px;
+     background-color: rgba(50, 81, 99, 0.61);
+     height: 85px;
+ }
+ 
+ .header ul li {
+     display: inline-block;
+     margin-left: 25px;
+     margin-right: 25px;
+     font-size: 20px;
+ }
+ 
+ .header ul {
+     list-style-type: none;
+     background-color: black;
+ }
+ 
+ .header a:hover {
+     color:white;
+ }
+ 
+ .header a:active {
+     color:yellow;
+ }
+ /*end of header section*/
+ /*
+ */
+ /*rows and columns*/
+ div.card.mb-3 {
+     margin-left: 50px;
+     margin-top: 20px;
+     border-color: rgba(21, 97, 46, 0.349);
+     border-style: solid 4px;
+ }
+ 
+ div.col-md-8 {
+     background-color: rgb(153, 185, 214);
+ }
+ /*end of rows and columns*/
+ /*
+ */
+ /*footer section*/
+ 
+ div.fixed-bottom {
+     text-align: center;
+     height: 100px;
+ }
+ 
+ .footer a:visited {
+     color: rgb(112, 29, 71);
+ }
+ 
+ .footer a:active {
+     color: yellow;
+ }
+ 
+ /*blue arrow on the bottom page*/
+ .down {
+     transform: rotate(45deg);
+     -webkit-transform: rotate(45deg);
+ }
+ 
+ .arrow {
+     border: solid blue;
+     border-width: 0 3px 3px 0;
+     display: inline-block;
+     padding: 2px;
+ }
