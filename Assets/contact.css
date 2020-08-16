@@ -23,10 +23,8 @@ body {
     background-attachment: fixed;
     color: whitesmoke;
 }
-/*end of body and background picture*/
-/*
-/*header*/
 
+/*header*/
 .header a:hover {
     color:white;
 }
@@ -46,18 +44,6 @@ body {
 form {
     width: 80%;
     margin-left: 120px;
-}
-
-h1 {
-    text-align: center;
-}
-
-button {
-    background-color: white;
-    border: 2px solid rgb(20, 140, 161);
-    padding: 3px 7px;
-    transition-duration: 0.4s;
-    border-radius: 20%;
 }
 
 .btn-primary {
