@@ -1,0 +1,89 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/*body and background picture*/
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+.background {
+    background-image: 
+    linear-gradient(
+    rgba(77, 117, 192, 0.699),
+    rgba(49, 21, 61, 0.39)
+
+    ),
+    url('img/beach.jpg');
+}
+body {
+    background-size: cover;
+    background-attachment: fixed;
+    color: whitesmoke;
+}
+/*end of body and background picture*/
+/*
+/*header*/
+
+.header a:hover {
+    color:white;
+}
+
+.header a:active {
+    color: yellow;
+}
+/*end of header*/
+/*
+/*container*/
+.container {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 20px;
+}
+
+form {
+    width: 80%;
+    margin-left: 120px;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    background-color: white;
+    border: 2px solid rgb(20, 140, 161);
+    padding: 3px 7px;
+    transition-duration: 0.4s;
+    border-radius: 20%;
+}
+
+.btn-primary {
+    background-color: whitesmoke;
+    color: black;
+    border: 2px solid rgb(20, 140, 161);
+    padding: 3px 7px;
+    transition-duration: 0.4s;
+    border-radius: 20%;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.icons {
+    font-size: 50px;
+    float: right;
+    margin: 20px, 10px 20px 10px;
+}
+
+/*end of container and form*/
+/*
+/*footer*/
+.fixed-bottom a:visited {
+    color: rgb(112, 29, 71);
+}
+
+.fixed-bottom a:active {
+    color: yellow;
+}

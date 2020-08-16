@@ -21,23 +21,12 @@ html, body {
 
 body {
     background-size: cover;
-    background-attachment: fixed;
     background-repeat: no-repeat;
-}
-/*end of body and background*/
-/*
-/*header section*/
-.header ul {
-    list-style-type: none;
-    background-color: black;
+    background-attachment: fixed;
 }
 
-.header ul li {
-    display: inline-block;
-    margin-left: 25px;
-    margin-right: 25px;
-    font-size: 20px;
-}
+/*
+/*header section*/
 
 .header a:hover {
     color:white;
@@ -47,4 +36,11 @@ body {
     color: yellow;
 }
 
+h2 {
+    color: whitesmoke;
+}
+
+div.row.portfolio {
+    margin-bottom: 60px
+}
 
