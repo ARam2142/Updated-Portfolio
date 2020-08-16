@@ -28,30 +28,28 @@
 
  /*header section*/
 
+ /*
  header {
      padding: 10px;
      background-color: rgba(50, 81, 99, 0.61);
      height: 85px;
- }
+ }*/
+ 
  
  .header ul li {
-     display: inline-block;
-     margin-left: 25px;
-     margin-right: 25px;
-     font-size: 20px;
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 20px;
  }
  
- .header ul {
-     list-style-type: none;
-     background-color: black;
- }
  
  .header a:hover {
-     color:white;
+     color: rgb(58, 21, 58);
  }
  
  .header a:active {
-     color:yellow;
+     color:purple;
  }
  /*end of header section*/
  /*
