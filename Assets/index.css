@@ -27,22 +27,12 @@
  /*end of background picture and body*/
 
  /*header section*/
-
- /*
- header {
-     padding: 10px;
-     background-color: rgba(50, 81, 99, 0.61);
-     height: 85px;
- }*/
- 
- 
  .header ul li {
     display: inline-block;
     margin-left: 10px;
     margin-right: 10px;
-    font-size: 20px;
+    font-size: 25px;
  }
- 
  
  .header a:hover {
      color: rgb(58, 21, 58);
@@ -52,22 +42,11 @@
      color:purple;
  }
  /*end of header section*/
- /*
- */
- /*rows and columns*/
- div.card.mb-3 {
-     margin-left: 50px;
-     margin-top: 20px;
-     border-color: rgba(21, 97, 46, 0.349);
-     border-style: solid 4px;
+
+ div.card {
+     background-color: rgba(95, 119, 228, 0.767);
  }
- 
- div.col-md-8 {
-     background-color: rgb(153, 185, 214);
- }
- /*end of rows and columns*/
- /*
- */
+
  /*footer section*/
  
  div.fixed-bottom {
@@ -83,7 +62,11 @@
      color: yellow;
  }
  
+ div.row.icons {
+    margin-top: 20px;
+ }
  /*blue arrow on the bottom page*/
+ /*
  .down {
      transform: rotate(45deg);
      -webkit-transform: rotate(45deg);
@@ -94,4 +77,4 @@
      border-width: 0 3px 3px 0;
      display: inline-block;
      padding: 2px;
- }
+ }*/
