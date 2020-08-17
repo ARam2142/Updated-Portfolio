@@ -2,13 +2,14 @@
 
 # Background:
 
-This is an updated version from my first portfolio that i made a few weeks ago. This portfolio now includes projects that i have done in bootcamp. My porffolio inludes contact information as well as more bootstrap elements. The bootstrap helps out with making this mobile friendly. There is alot less css elements. The bootstrap definetly made life easier. Aside from you will be able to all of the work that i have done up until now!
+This is an updated version from my first portfolio that I made a few weeks ago. This portfolio now includes projects that i have done in bootcamp. My porffolio inludes contact information as well as more bootstrap elements. The bootstrap helps out with making this mobile friendly. There is alot less css elements. The bootstrap definetly made life easier. Aside from that you will be able to all of the work that I have done up until now! However this is not the end, as a web developer I will continue to make projects and include them in my updated portfolio.
 
 # Technologies used:
 
 Bootstrap,
 CSS,
 HTML
+
 
 # Screenshots:
 
