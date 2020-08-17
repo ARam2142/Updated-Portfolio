@@ -41,28 +41,6 @@ body {
     margin-top: 20px;
 }
 
-form {
-    width: 80%;
-    margin-left: 120px;
-}
-
-.btn-primary {
-    background-color: whitesmoke;
-    color: black;
-    border: 2px solid rgb(20, 140, 161);
-    padding: 3px 7px;
-    transition-duration: 0.4s;
-    border-radius: 20%;
-    margin-top: 10px;
-    padding: 10px;
-}
-
-.icons {
-    font-size: 50px;
-    float: right;
-    margin: 20px, 10px 20px 10px;
-}
-
 /*end of container and form*/
 /*
 /*footer*/
