@@ -27,13 +27,6 @@
  /*end of background picture and body*/
 
  /*header section*/
- .header ul li {
-    display: inline-block;
-    margin-left: 10px;
-    margin-right: 10px;
-    font-size: 25px;
- }
- 
  .header a:hover {
      color: rgb(58, 21, 58);
  }
@@ -48,25 +41,9 @@
  }
 
  /*footer section*/
- div.fixed-bottom {
-     text-align: center;
-     height: 100px;
- }
  
  div.row.icons {
     margin-top: 20px;
     margin-bottom: 60px;
  }
- /*blue arrow on the bottom page*/
- /*
- .down {
-     transform: rotate(45deg);
-     -webkit-transform: rotate(45deg);
- }
  
- .arrow {
-     border: solid blue;
-     border-width: 0 3px 3px 0;
-     display: inline-block;
-     padding: 2px;
- }*/

@@ -32,12 +32,9 @@ body {
 .header a:active {
     color: yellow;
 }
-/*end of header*/
 
 /*container*/
 .container {
     margin-top: 20px;
     margin-bottom: 90px;
 }
-
-/*end of container and form*/
