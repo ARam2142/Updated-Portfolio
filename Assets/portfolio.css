@@ -25,19 +25,13 @@ body {
     background-attachment: fixed;
 }
 
-/*
 /*header section*/
-
 .header a:hover {
     color:white;
 }
 
 .header a:active {
     color: yellow;
-}
-
-h2 {
-    color: whitesmoke;
 }
 
 div.row.portfolio {
