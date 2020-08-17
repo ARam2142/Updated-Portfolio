@@ -42,12 +42,3 @@ body {
 }
 
 /*end of container and form*/
-/*
-/*footer*/
-.fixed-bottom a:visited {
-    color: rgb(112, 29, 71);
-}
-
-.fixed-bottom a:active {
-    color: yellow;
-}
