@@ -48,22 +48,14 @@
  }
 
  /*footer section*/
- 
  div.fixed-bottom {
      text-align: center;
      height: 100px;
  }
  
- .footer a:visited {
-     color: rgb(112, 29, 71);
- }
- 
- .footer a:active {
-     color: yellow;
- }
- 
  div.row.icons {
     margin-top: 20px;
+    margin-bottom: 60px;
  }
  /*blue arrow on the bottom page*/
  /*
