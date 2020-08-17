@@ -10,10 +10,6 @@ Bootstrap,
 CSS,
 HTML
 
-# Outcome:
-
-This portfolio took me time to finish. This is the first timme ever using bootstrap. So I was familiarizing myself with its documentation. It was very new to me. However, this made styling very easy and less time consuming. I will definetly be using it more in the future.
-
 # Screenshots:
 
 ![Screen Shot 2020-08-16 at 11 18 11 PM](https://user-images.githubusercontent.com/65634748/90354326-fd317280-e016-11ea-85cc-a11979b268e4.png)
