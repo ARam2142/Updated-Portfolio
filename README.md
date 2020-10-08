@@ -15,6 +15,7 @@ HTML
 
 ![Screen Shot 2020-08-16 at 11 18 11 PM](https://user-images.githubusercontent.com/65634748/90354326-fd317280-e016-11ea-85cc-a11979b268e4.png)
 ![Screen Shot 2020-08-16 at 11 06 40 PM](https://user-images.githubusercontent.com/65634748/90354002-e4748d00-e015-11ea-9076-c428beb5f043.png)
-![Screen Shot 2020-08-16 at 11 18 23 PM](https://user-images.githubusercontent.com/65634748/90354290-e12dd100-e016-11ea-9409-62d97dd1b9e3.png)
+![Screen Shot 2020-10-08 at 6 54 28 PM](https://user-images.githubusercontent.com/65634748/95521554-d00a9c00-0997-11eb-9dc5-9987e74c14a9.png)
+
 
 go to: https://aram2142.github.io/Updated-Portfolio/
