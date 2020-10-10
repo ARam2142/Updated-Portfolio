@@ -32,5 +32,8 @@ body {
 
 h4 a {
     color: rgba(13, 14, 13, 0.699);
+}
 
+h4 a:hover {
+    color: rgb(134, 14, 80)
 }
