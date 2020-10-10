@@ -30,10 +30,6 @@ body {
     color:white;
 }
 
-.header a:active {
-    color: yellow;
-}
-
 div.row.portfolio {
     margin-bottom: 60px;
 }

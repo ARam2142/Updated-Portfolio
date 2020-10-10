@@ -24,15 +24,6 @@ body {
     color: whitesmoke;
 }
 
-/*header*/
-.header a:hover {
-    color:white;
-}
-
-.header a:active {
-    color: yellow;
-}
-
 /*container*/
 .container {
     margin-top: 20px;
